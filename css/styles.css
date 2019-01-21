@@ -58,7 +58,7 @@ p{
 /* title image */
 
 .title-image{
-  width: 60%;
+  width: 40%;
   transform: rotate(25deg);
 }
 
@@ -120,4 +120,15 @@ h2{
 
 .carousel-item{
   padding: 7% 15%;
+}
+
+#pricing{
+
+  padding: 100px;
+  text-align: center;
+
+}
+
+.pricingco{
+  padding: 3% 2%;
 }

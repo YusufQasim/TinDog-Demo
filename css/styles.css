@@ -60,6 +60,7 @@ p{
 .title-image{
   width: 40%;
   transform: rotate(25deg);
+  margin-left: 50px;
 }
 
 h3{
